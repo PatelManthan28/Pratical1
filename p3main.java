@@ -11,6 +11,6 @@ public class p3main
         d=sc.nextInt();
         System.out.printf("Last Digit(%d,%d)",s,d);
         a.result();
-        System.out.println("Program by 21CE098 MANTHAN PATEl");
+        System.out.println("Program done by 21CE098 MANTHAN PATEl");
     }
 }
