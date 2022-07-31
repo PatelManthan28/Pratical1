@@ -10,7 +10,7 @@ public class p5main
         String a2 = sc.nextLine();
         p5 s = new p5(a1,a2);
         sc.close();
-        System.out.println("Program by 21CE098");
+        System.out.println("Program by 21CE098 MANTHAN PATEL");
 
     }
 }
