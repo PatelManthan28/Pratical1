@@ -6,6 +6,6 @@ public class p4main {
         System.out.println("Enter the size of array:");
         int p = sc.nextInt();
         p4 k = new p4(p);
-        System.out.println("Program by 21CE098 MANTHAN");
+        System.out.println("Program done by 21CE098 MANTHAN");
     }
 }
